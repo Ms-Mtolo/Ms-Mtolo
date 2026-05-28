@@ -20,6 +20,8 @@ I build projects from both academic projects and personal to showcase my skills 
 
 I am currently learning to sharpen my skills in building database management systems using MYSQL and Rest API (self-taught)
 
+I am a critical thinker, attentive to detail and a problem solver at best.
+
 * 🌍  I'm based in South Africa, Gauteng, Pretoria
 * ✉️  You can contact me at [mkhantsho5@gmail.com](mailto:mkhantsho5@gmail.com)
 * 🧠  I'm currently learning Node.js, C#, API's and other back-end tools
